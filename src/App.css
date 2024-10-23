@@ -1,0 +1,29 @@
+.form-container {
+  background-color: #f5f8fc;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+  margin-top: 100px;
+}
+
+h2 {
+  text-align: center;
+  color: #2c3e50;
+}
+
+.submit-btn {
+  margin-top: 20px;
+  background-color: #00bfa5;
+  color: white;
+}
+
+.cancel-btn {
+  margin-top: 10px;
+  border-color: #e74c3c;
+  color: #e74c3c;
+}
+
+.cancel-btn:hover {
+  background-color: rgba(231, 76, 60, 0.1);
+}
+
